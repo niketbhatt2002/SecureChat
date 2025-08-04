@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/language-Java-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# JavaChat
+# SecureChat
 
 A simple multi-client chat application built in Java using sockets and threads.
 
@@ -25,7 +25,7 @@ A simple multi-client chat application built in Java using sockets and threads.
 
    ```bash
    javac -d out src/server/*.java src/client/*.java
-Run the server:
+### Run the server:
 
 bash
 Copy
@@ -58,17 +58,15 @@ Edit
 docker run -it --rm javachat java -cp out client.Client
 Note: The Dockerfile runs the server by default. Use the command override to run the client.
 
-Project Structure
-arduino
-Copy
-Edit
+### Project Structure
+
 JavaChat/
 ├── src/
-│   ├── server/
-│   │   ├── Server.java
-│   │   └── ClientHandler.java
-│   └── client/
-│       └── Client.java
+│ ├── server/
+│ │ ├── Server.java
+│ │ └── ClientHandler.java
+│ └── client/
+│ └── Client.java
 ├── README.md
 ├── Dockerfile
 ├── .gitignore
@@ -76,5 +74,5 @@ JavaChat/
 ├── build.sh
 ├── run-server.sh
 └── run-client.sh
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
