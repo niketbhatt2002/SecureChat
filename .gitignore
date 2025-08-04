@@ -1,0 +1,11 @@
+# Ignore class files and output folder
+/out/
+*.class
+
+# macOS
+.DS_Store
+
+# Vim/IntelliJ/VSCode/etc.
+*.swp
+*.log
+*.iml
