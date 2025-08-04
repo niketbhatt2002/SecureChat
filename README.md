@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/language-Java-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 💬 SecureChat — Multi-Client Console Chat in Java
 
 JavaChat is a terminal-based, multi-client chat system built using **Java Sockets**. It allows multiple clients to connect to a central server and communicate in real time via broadcast messages.
