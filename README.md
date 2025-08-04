@@ -74,5 +74,7 @@ JavaChat/
 ├── build.sh
 ├── run-server.sh
 └── run-client.sh
+
+---
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
