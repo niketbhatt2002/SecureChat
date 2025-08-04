@@ -1,4 +1,4 @@
-# 💬 JavaChat — Multi-Client Console Chat in Java
+# 💬 SecureChat — Multi-Client Console Chat in Java
 
 JavaChat is a terminal-based, multi-client chat system built using **Java Sockets**. It allows multiple clients to connect to a central server and communicate in real time via broadcast messages.
 
@@ -10,7 +10,7 @@ This project is ideal for learning:
 ---
 
 ## 🧱 Project Structure
-
+## 
 JavaChat/
 ├── src/
 │ ├── server/
